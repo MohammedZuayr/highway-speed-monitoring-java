@@ -1,0 +1,53 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/adela/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/adela/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/adela/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/adela/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/adela/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar;C:/Users/adela/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/adela/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/adela/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar;C:/Users/adela/Desktop/Work/projects/EE364 - RoadSpeeding/speedcamera/target/classes'
+--patch-module
+com.code='C:/Users/adela/Desktop/Work/projects/EE364 - RoadSpeeding/speedcamera/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/adela/Desktop/Work/projects/EE364 - RoadSpeeding/speedcamera/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/adela/Desktop/Work/projects/EE364 - RoadSpeeding/speedcamera/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'speedcamera 0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/adela/Desktop/Work/projects/EE364 - RoadSpeeding/speedcamera/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'speedcamera 0 API'
+com.code
+com.models
+'C:/Users/adela/Desktop/Work/projects/EE364 - RoadSpeeding/speedcamera/src/main/java/module-info.java'
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\allclasses-index.html = 1717306972740
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\allpackages-index.html = 1717306972740
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\element-list = 1717306972595
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\help-doc.html = 1717306972772
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\index-all.html = 1717306972765
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\index.html = 1717306972765
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\javadoc.bat = 1717305883259
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\jquery-ui.overrides.css = 1717306972880
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\member-search-index.js = 1717306972745
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\module-search-index.js = 1717306972745
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\overview-tree.html = 1717306972718
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\package-search-index.js = 1717306972745
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\script.js = 1717306972821
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\search.js = 1717306972821
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\stylesheet.css = 1717306972786
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\tag-search-index.js = 1717306972749
+C:\Users\adela\Desktop\Work\projects\EE364 - RoadSpeeding\speedcamera\target\site\apidocs\type-search-index.js = 1717306972745
